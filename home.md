@@ -3,7 +3,9 @@
 
 Welcome fella's. 
 
-We are currently in alpha, the wiki is maintained through github. The current flow to contribute is fork -> change -> pull request.
+We are currently in alpha, the wiki is maintained through github. The current flow to contribute is fork -> change -> pull request. Be creative with the index, create directories where needed. 
+
+Let's go!
 
 
 ## Proposal for inner workings
@@ -28,3 +30,12 @@ In order to ease merging and keep structure the development branch will be dropp
 - Rating system
 - Trending list
 - ???
+
+## Security of the wiki
+
+The wiki is hosted on a VPS with nothing else on it. The wiki uses a read-only deployment key to pull the git every minute. So hacking the wiki is useless and just a waste of your own time. 
+
+## License 
+
+If you care about sharing knowledge consider pasting the following license into your wiki:
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
