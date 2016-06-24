@@ -5,7 +5,6 @@ Welcome fella's.
 
 We are currently setting everything up. Check back later!
 
-Haha, butts
 
 ## Proposal for inner workings
 
