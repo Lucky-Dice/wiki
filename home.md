@@ -22,13 +22,10 @@ In order to ease merging and keep structure the development branch will be dropp
 ## Current state
 
 ### Working
-- Git integration
-- Authentication (github authentication)
-- More features originally in Realms wiki
+- Github synchronisation.
 
 ### Todo
-- Dev/Master branch separation
-- Maintainer status
+- Dev/Master branch separation?
 - Rating system
 - Trending list
 - ???
