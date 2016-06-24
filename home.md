@@ -3,7 +3,7 @@
 
 Welcome fella's. 
 
-We are currently setting everything up. Check back later!
+We are currently in alpha, the wiki is maintained through github. The current flow to contribute is fork -> change -> pull request.
 
 
 ## Proposal for inner workings
