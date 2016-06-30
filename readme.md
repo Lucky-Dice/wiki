@@ -1,6 +1,4 @@
 ![alt text](https://github.com/Hackerswiki/wiki/blob/master/hackerswiki.png "Hackers Wiki")
-# Hackers.wiki
-
 
 Welcome fella's. 
 
