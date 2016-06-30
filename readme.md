@@ -3,33 +3,18 @@
 
 Welcome fella's. 
 
-We are currently in alpha, the wiki is maintained through github. The current flow to contribute is fork -> change -> pull request. Be creative with the index, create directories where needed. 
+We are currently in alpha, the wiki is maintained through github. 
 
 Let's go!
 
+## Inner workings
 
-## Proposal for inner workings
+The wiki is basically a frontend for the git repository. The repository holds everything from wise knowledge to total bullshit. 
 
-See this as a community project.
-My (simplect's) proposal for the wiki:
+The current flow to contribute is fork -> change -> pullrequest on github. Be creative with the index, create directories where needed. 
 
-The wiki is basically a frontend for a git repository. The repository holds everything from wise knowledge to total bullshit. 
-
-The development branch will be public for everyone to add .md's, code files etc. Then there is a rating system. Highly rated files will be added to a trending development. When the file is significantly trending because of real human voting one of the maintainers will merge it to the master branch.
-
-In order to ease merging and keep structure the development branch will be dropped every week and a new development branch will be checkedout.
-
-
-## Current state
-
-### Working
-- Github synchronisation.
-
-### Todo
-- Dev/Master branch separation?
-- Rating system
-- Trending list
-- ???
+The wiki front-end currently only parses Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Code is also more than welcome. Use coding standards; or else Torvalds will strangle you in your sleep.
 
 ## Security of the wiki
 
@@ -38,4 +23,5 @@ The wiki is hosted on a VPS with nothing else on it. The wiki uses a read-only d
 ## License 
 
 If you care about sharing knowledge consider pasting the following license into your wiki:
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+> This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
