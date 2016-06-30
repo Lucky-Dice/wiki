@@ -1,4 +1,4 @@
-![alt text](https://github.com/Hackerswiki/wiki/blob/master/hackerswiki.png "Hackers Wiki")
+![alt text](https://raw.githubusercontent.com/Hackerswiki/wiki/master/hackerswiki.png "Hackers Wiki")
 
 Welcome fella's. 
 
