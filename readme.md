@@ -4,7 +4,9 @@ Welcome fella's.
 
 We are currently in alpha, the wiki is maintained through github. 
 
-Let's go!
+## Some articles to start
+[Buffer Overflow](http://hackers.wiki/exploitation/Buffer-Overflow.md)
+
 
 ## Inner workings
 
