@@ -1,28 +1,45 @@
 ![alt text](https://raw.githubusercontent.com/Hackerswiki/wiki/master/hackerswiki.png "Hackers Wiki")
 
-Welcome fella's. 
+Welcome fella's. The wiki is in development. The frontend will change, the content will change, everything will probably change.
 
-We are currently in alpha, the wiki is maintained through github. 
+We are looking for writers! Fork, write, pull request. And if we like you we might invite you to become a mantainer.
 
 ## Some articles to start
 [Buffer Overflow](http://hackers.wiki/exploitation/Buffer-Overflow.md)
+
 [Lock Picking](http://hackers.wiki/lockpicking/lockpicking.md)
 
-## Inner workings
 
-The wiki is basically a frontend for the git repository. The repository holds everything from wise knowledge to total bullshit. 
 
-The current flow to contribute is fork -> change -> pullrequest on github. Be creative with the index, create directories where needed. 
+
+
+## Notes
 
 The wiki front-end currently only parses Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Code is also more than welcome. Use coding standards; or else Torvalds will strangle you in your sleep.
 
-## Security of the wiki
+### Can I contribute
 
-The wiki is hosted on a VPS with nothing else on it. The wiki uses a read-only deployment key to pull the git every minute. So hacking the wiki is useless and just a waste of your own time. 
+Yes! https://github.com/Hackerswiki/wiki/ FORK -> CHANGE -> COMMIT -> PULL REQUEST/.
 
-## License 
+### What should be on this wiki?
+
+Everything, in special stuff that doesn't belong anywhere else.
+
+### Decentralized
+
+We are working on a decentralized approach. We'll leave github and have a decentralized set-up when we are done.
+
+### Evilzone.org
+
+This wiki is a project by one of the long time staff members on Evilzone.org. A forum was not the right place for great content so that was when this wiki was born. 
+
+###License 
 
 If you care about sharing knowledge consider pasting the following license into your wiki:
 
 > This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+### Security of the wiki
+
+The wiki is hosted on a VPS with nothing else on it. The wiki uses a read-only deployment key to pull the git every minute. So hacking the wiki is useless and just a waste of your own time. 
