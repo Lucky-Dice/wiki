@@ -37,5 +37,6 @@ This introduces a lot of different techniques to crack locks:
 ## Reading
 
 [MIT Guide to Lock Picking](\\hackers.wiki/lockpicking/mitlg-a4.pdf)
+
 [Bumping locks](\\hackers.wiki/lockpicking/bumping.pdf)
 
