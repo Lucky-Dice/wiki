@@ -6,7 +6,7 @@ We are currently in alpha, the wiki is maintained through github.
 
 ## Some articles to start
 [Buffer Overflow](http://hackers.wiki/exploitation/Buffer-Overflow.md)
-
+[Lock Picking](http://hackers.wiki/lockpicking/lockpicking.md)
 
 ## Inner workings
 
