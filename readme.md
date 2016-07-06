@@ -9,6 +9,7 @@ We are looking for writers! Fork, write, pull request. And if we like you we mig
 
 [Lock Picking](http://hackers.wiki/lockpicking/lockpicking.md)
 
+[Social Engineering](http://hackers.wiki/socialengineering/socialengineering.md)
 
 
 
