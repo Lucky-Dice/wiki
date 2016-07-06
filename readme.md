@@ -20,15 +20,15 @@ Code is also more than welcome. Use coding standards; or else Torvalds will stra
 
 ### Can I contribute
 
-Yes! https://github.com/Hackerswiki/wiki/ FORK -> CHANGE -> COMMIT -> PULL REQUEST/.
+Yes! https://github.com/Hackerswiki/wiki/ FORK -> CHANGE -> COMMIT -> PULL REQUEST.
 
 ### What should be on this wiki?
 
-Everything, in special stuff that doesn't belong anywhere else.
+Everything, from total bullshit to wise knowledge. 
 
 ### Decentralized
 
-We are working on a decentralized approach. We'll leave github and have a decentralized set-up when we are done.
+We are working on a decentralized approach. The goal is to leave Github and have the git distributed among readers and editors in order to provide persistence.
 
 ### Evilzone.org
 
