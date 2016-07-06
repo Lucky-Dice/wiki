@@ -15,5 +15,7 @@ Social engineering is about the art of rooting an company building. Instead of g
 
 ## Reading
 [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
+
 [The Art and Science of Cold Reading](\\hackers.wiki/socialengineering/The-Art-And-Science-Of-Cold-Reading.pdf)
+
 [CSI Tradecraft Primer 2009](\\hackers.wiki/socialengineering/Tradecraft-Primer-apr09.pdf)
